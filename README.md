@@ -1,12 +1,9 @@
-### Olá eu sou Kaue de Matos
+### Olá! eu sou Kauê de Matos
 
- Estudando Ciencias da computação💻
- Desenvolvedor Front-end e Estudo Back-end🖌
- Conhecimento e Marketing digital e Design📝
+ 📚Cursando Ciencias da computaçã
+💻Desenvolvedor Froent-end
+📩contate-me no email:kaue178hotimail@gmail.com
  
 
 
-<div>
- <a href="https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
- 
-</div>
+
