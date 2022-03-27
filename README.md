@@ -1,6 +1,6 @@
 ### Olá! eu sou Kauê de Matos
 
- 📚Cursando Ciencias da computaçã
+ 📚Cursando Ciencias da computação
 💻Desenvolvedor Froent-end
 📩contate-me no email:kaue178hotimail@gmail.com
  
