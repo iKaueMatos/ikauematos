@@ -7,7 +7,14 @@
  
 <div align="center">
   <a href="https://github.com/ikauematos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
+   
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikauematos&show_icons=true&locale=en&layout=compact" alt="kauematos" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&locale=en" alt="kauematos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikauematos&" alt="kauematos" /></p>
+
   
 </div>
 <div style="display: inline_block"><br>
