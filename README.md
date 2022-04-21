@@ -7,12 +7,11 @@
  
 <div align="center">
   <a href="https://github.com/ikauematos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&theme=yellow&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&layout=compact&langs_count=7&theme=yellow"/>
 </div>
 <div style="display: inline_block"><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
- 
+
   
  <img align="center" alt="bootstrap" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <img align="center" alt="photoshop" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
