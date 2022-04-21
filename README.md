@@ -7,8 +7,8 @@
  
 <div align="center">
   <a href="https://github.com/ikauematos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?ikauematos={ikauematos}&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&layout=compact&langs_count=7&theme=yellow"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
+  
 </div>
 <div style="display: inline_block"><br>
 
