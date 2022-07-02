@@ -10,8 +10,8 @@
    
 <div align="center">
   <a href="https://github.com/ikauematos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&theme=blue-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&layout=compact&langs_count=7&theme=blue-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&theme=dark-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&layout=compact&langs_count=7&theme=dark-dark"/>
 </div>
  
   
