@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/kau%C3%AA-matos-oliveira-a76410213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
- ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/IkaueMatos/IkaueMatos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
