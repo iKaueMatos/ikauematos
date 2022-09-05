@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/ikauematos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ikauematos&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&theme=github_dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ikauematos&count_private=true&include_all_commits=true&show_icons=true&theme=swift&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&theme=swift&hide_border=false&&layout=compact"/>
   </a>
 </div>
  <div align="center" valign="top"><br>
