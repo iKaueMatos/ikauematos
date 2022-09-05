@@ -30,10 +30,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ikauematos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
- 
+<div>
 <a href="https://www.instagram.com/kauematos2003/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ </div>
  
   
 
