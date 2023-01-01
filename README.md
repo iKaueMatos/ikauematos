@@ -33,8 +33,6 @@
  
  
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Ikauematos&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ikauematos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
