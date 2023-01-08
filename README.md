@@ -48,7 +48,7 @@ Function**Kauê**() {
 </a>
 
 <a href="https://github.com/ikauematos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?ikauematos=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Kaue matos** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&theme=dracula&line_height=27" alt="**Kaue matos** github stats"/>
 </a>
 
 [website - Portfolio]: https://ikauematos.github.io/Portfolio/
