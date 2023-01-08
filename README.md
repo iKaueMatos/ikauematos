@@ -19,7 +19,7 @@ Function**Kauê**() {
  var acknowledgements = "Front-end,Design UI/UX / Back-end"
  
  var primarySkillset = "Design UI/UX,Design Responsivo/Criação de sites - Voltade de aprender"
- var languages = listOf("Html","Css" "Python", "JavaScript", "React") 
+ var languages = "Html","Css" "Python", "JavaScript", "React"
 
 }
 ```
