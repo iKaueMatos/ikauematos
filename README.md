@@ -16,11 +16,11 @@ Sou estudante de desenvolvimento Front-end atualmente estou em busca da minha pr
 " />
 
 ```javascript
-Function**Kauê**() {
+Function Kauê() {
  var name = "Kauê de matos Oliveira"
  var acknowledgements = "Front-end,Design UI/UX / Back-end"
  
- var primarySkillset = "Design UI/UX,Design Responsivo/Criação de sites - Voltade de aprender"
+ var Skill = "Design UI/UX,Design Responsivo/Criação de sites - Voltade de aprender"
  var languages = "Html","Css" "Python", "JavaScript", "React"
 
 }
