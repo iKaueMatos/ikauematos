@@ -12,13 +12,13 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Kauê** {
- val name = "Kauê de matos Oliveira"
- val acknowledgements = "Front-end,Design UI/UX / Back-end"
+```javascript
+Function**Kauê**() {
+ var name = "Kauê de matos Oliveira"
+ var acknowledgements = "Front-end,Design UI/UX / Back-end"
  
- val primarySkillset = "Design UI/UX,Design Responsivo/Criação de sites - Voltade de aprender"
- val languages = listOf("Html","Css" "Python", "JavaScript", "React") 
+ var primarySkillset = "Design UI/UX,Design Responsivo/Criação de sites - Voltade de aprender"
+ var languages = listOf("Html","Css" "Python", "JavaScript", "React") 
 
 }
 ```
