@@ -8,7 +8,7 @@
  
  ### Hello devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Sou estudante de desenvolvimento Front-end atualmente estou em busca da minha primeira oportunidade no mercado de trabalho como | Estagiario de TI
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> Mais sobre mim
 
