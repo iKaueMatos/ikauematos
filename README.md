@@ -4,7 +4,7 @@
  
 💻Desenvolvedor Froent-end
 
-📩contate-me no email:kaue178hotimail@gmail.com
+📩Contate-me no email:kaue178hotimail@gmail.com
  
  ### Hello devs 👋
 
@@ -46,11 +46,11 @@ Function**Kauê**() {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/ikauematos">
-  <img align="center" width = "300px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&theme=moltack&hide_langs_below=1" />
+  <img align="center" width = "300px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&theme=maroongold&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/ikauematos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&theme=moltack&line_height=27" alt="**Kaue matos** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&theme=maroongold&line_height=27" alt="**Kaue matos** github stats"/>
 </a>
 
 [website - Portfolio]: https://ikauematos.github.io/Portfolio/
