@@ -10,7 +10,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> Mais sobre mim
 
-<img align="right" width="300" src="" />
+<img align="right" width="300" src="![image](https://user-images.githubusercontent.com/98132837/211220797-372f0236-75f4-4cf8-864c-09c7e25121cb.png)
+" />
 
 ```javascript
 Function**Kauê**() {
