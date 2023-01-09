@@ -46,11 +46,11 @@ Function Kauê() {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/ikauematos">
-  <img align="center" width = "300px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&theme=kacho_ga&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/ikauematos">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikauematos&show_icons=true&theme=kacho_ga&line_height=27" alt="**Kaue matos** github stats"/>
+</a>
+ 
+ <a href="https://github.com/ikauematos">
+  <img align="center" width = "300px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&theme=kacho_ga&hide_langs_below=1" />
 </a>
 
 [website - Portfolio]: https://ikauematos.github.io/Portfolio/
