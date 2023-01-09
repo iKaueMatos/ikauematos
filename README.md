@@ -50,6 +50,8 @@ Function Kauê() {
 </a>
  
  <br>
+ <br>
+ <br>
  
  <a href="https://github.com/ikauematos">
   <img align="center" width = "300px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikauematos&theme=kacho_ga&hide_langs_below=1" />
