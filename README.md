@@ -43,19 +43,7 @@ Function Kauê() {
   <img align="center" alt="github" height="40" width="40" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">
   
 
-## **GitHub Estatísticas**
 
-<a href="https://github.com/ikauematos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=IkaueMatos&show_icons=true&theme=kacho_ga&line_height=27" alt="**Kaue matos** github stats"/>
-</a>
- 
- <br>
- <br>
- <br>
- 
- <a href="https://github.com/ikauematos">
-  <img align="center" width = "300px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkaueMatos&theme=kacho_ga&hide_langs_below=1" />
-</a>
 
 [website - Portfolio]: https://ikauematos.github.io/Portfolio/
 [instagram]: https://www.instagram.com/kauematos2003/
