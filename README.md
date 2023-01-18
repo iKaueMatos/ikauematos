@@ -8,20 +8,20 @@
  
  ### Hello devs 👋
 
-Sou estudante de desenvolvimento Front-end atualmente estou em busca da minha primeira oportunidade no mercado de trabalho como | Estagiario de TI
+Sou estudante de Ciencias da computação atualmente estou em busca da minha primeira oportunidade no mercado de trabalho como | Estagiario de TI em programação!
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Mais sobre mim
 
 <img align="right" width="300" src="![image](https://user-images.githubusercontent.com/98132837/211220797-372f0236-75f4-4cf8-864c-09c7e25121cb.png)
 " />
 
-```javascript
-Function Kauê() {
- var name = "Kauê de matos Oliveira"
- var linguageProgrammer = "Front-end,Design UI/UX / Back-end"
- 
- var Skill = "Design UI/UX,Design Responsivo/Criação de sites - Voltade de aprender"
- var languages = "Html","Css" "Python", "JavaScript", "React"
+```Java
+public class Kauê{
+ public static void main(String[] args){
+
+ String name = "Kauê de matos Oliveira"
+ String linguageProgrammer = "Front-end,Design UI/UX / Back-end"
+ String Skill = "Vontade de aprender"
 
 }
 ```
