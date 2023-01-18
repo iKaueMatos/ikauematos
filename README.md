@@ -2,7 +2,7 @@
 
  📚Cursando Ciencias da computação
  
-💻Desenvolvedor Front-end
+💻Estudante
 
 📩Contate-me no email:kaue178hotimail@gmail.com
  
