@@ -10,7 +10,7 @@
 
 Sou estudante de desenvolvimento Front-end atualmente estou em busca da minha primeira oportunidade no mercado de trabalho como | Estagiario de TI
 
-## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> Mais sobre mim
+## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Mais sobre mim
 
 <img align="right" width="300" src="![image](https://user-images.githubusercontent.com/98132837/211220797-372f0236-75f4-4cf8-864c-09c7e25121cb.png)
 " />
