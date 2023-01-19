@@ -1,14 +1,10 @@
-### Olá! eu sou Kauê de Matos
 
- 📚Cursando Ciencias da computação
- 
-💻Estudante
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Olá me chamo Kauê de Matos </h1>
+<p align="center">
+  <a href="https://github.com/IkaueMatos/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;study+Software+Developer+Mobile+Web;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 
 📩Contate-me no email:kaue178hotimail@gmail.com
- 
- ### Hello devs 👋
-
-Sou estudante de Ciencias da computação atualmente estou em busca da minha primeira oportunidade no mercado de trabalho como | Estagiario de TI em programação!
 
 ## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Mais sobre mim
 
@@ -45,16 +41,6 @@ public class Kauê{
    <img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-## **Status:**  
- 
- <table style="width:100%">
-   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=iKaueMatos&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkaueMatos&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
-
 
 
 [website - Portfolio]: https://ikauematos.github.io/Portfolio/
