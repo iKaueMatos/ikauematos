@@ -46,7 +46,7 @@ public class Kauê{
   <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
- ##*Git status*
+## **Status:**  
  
  <table style="width:100%">
    <tr>
