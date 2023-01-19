@@ -9,7 +9,7 @@
 - 🚀 Looking to learn more;
 - 📩Contate-me no email:kaue178hotimail@gmail.com
 
-####Contact by!
+### My Contact 👋
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
