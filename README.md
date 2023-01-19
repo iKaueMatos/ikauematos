@@ -1,27 +1,8 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Olá me chamo Kauê de Matos </h1>
-<p align="center">
-  <a href="https://github.com/IkaueMatos/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;study+Software+Developer+Mobile+Web;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, my name is Kauê de Matos</h1>
 </p>
 
 📩Contate-me no email:kaue178hotimail@gmail.com
-
-## <img width="45" alt="about" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Mais sobre mim
-
-<img align="right" width="300" src="![image](https://user-images.githubusercontent.com/98132837/211220797-372f0236-75f4-4cf8-864c-09c7e25121cb.png)
-" />
-
-```Java
-public class Kauê{
- public static void main(String[] args){
-
- String name = "Kauê de matos Oliveira"
- String linguageProgrammer = "Front-end,Design UI/UX / Back-end"
- String Skill = "Vontade de aprender"
-
-}
-```
-
 
 ## **Linguagens e Ferramentas:**  
 
