@@ -5,14 +5,13 @@
 ##### What am i doing at the moment?
 
 - 🏢 Current working on [Em busca de oportunidade];
-- - 💻 computer science student;
+- 💻 computer science student;
 - 🚀 Looking to learn more;
 - 📩Contate-me no email:kaue178hotimail@gmail.com
 
 [website - Portfolio]: https://ikauematos.github.io/Portfolio/
 [instagram]: https://www.instagram.com/kauematos2003/
 [linkedin]: https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/
-<br>
 
 #### Also contact by!
 
