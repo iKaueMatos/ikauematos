@@ -27,9 +27,9 @@ public class Kauê{
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Dark&locale=en&hide_border=false&username=iKaueMatos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=Dark&hide_border=false&username=iKaueMatos" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iKaueMatos&theme=Dark" alt="Kaue matos"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=iKaueMatos" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=iKaueMatos" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iKaueMatos&theme=dark" alt="Kaue matos"/>
 
 </div>
 </div>
