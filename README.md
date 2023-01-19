@@ -1,12 +1,28 @@
+### Hi there 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, my name is Kauê de Matos</h1>
-</p>
+#### I'm a Developer/Web/Mobile working in São paulo, Brazil.
 
-📩Contate-me no email:kaue178hotimail@gmail.com
+##### What am i doing at the moment?
 
-## **Linguagens e Ferramentas:**  
+- 🏢 Current working on [Em busca de oportunidade];
+- - 💻 computer science student;
+- 🚀 Looking to learn more;
+- 📩Contate-me no email:kaue178hotimail@gmail.com
 
- <div align="center" valign="top"><br>
+[website - Portfolio]: https://ikauematos.github.io/Portfolio/
+[instagram]: https://www.instagram.com/kauematos2003/
+[linkedin]: https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/
+<br>
+
+#### Also contact by!
+
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+##### What is my top languages?
+
+<div align="center" valign="top"><br>
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,19 +40,9 @@
   <img align="center" alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 
-[website - Portfolio]: https://ikauematos.github.io/Portfolio/
-[instagram]: https://www.instagram.com/kauematos2003/
-[linkedin]: https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/
-<br>
+##### Portfolio? [Yes I have!](https://ikauematos.github.io/Portfolio/)  
 
-#### Rede Sociais!
 
-🏡 [website - Portfolio][website - Portfolio] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-  
- 
-</div>
 
 
 
