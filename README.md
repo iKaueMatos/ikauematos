@@ -36,11 +36,7 @@
    <img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IKaueMatos&show_icons=true&theme=maroongold&locale=en&layout=compact" alt="vaamonde"/>
-<img src="https://github-readme-stats.vercel.app/api?username=IKaueMatos&show_icons=true&theme=maroongold&locale=en" alt="vaamonde"/>
-</div>
+  
 
 ##### Portfolio? [Yes I have!](https://ikauematos.github.io/Portfolio/)  
 
