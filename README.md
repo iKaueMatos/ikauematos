@@ -4,7 +4,7 @@
 
 ##### What am i doing at the moment?
 
-- 🏢 Current working on [in search of opportunity];
+- 🏢 Current working on [Live ecommerce];
 - 💻 computer science student;
 - 🚀 Looking to learn more;
 - 📩Contact me on email:kaue178hotimail@gmail.com
