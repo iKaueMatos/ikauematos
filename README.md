@@ -7,7 +7,7 @@
 - 🏢 Current working on [in search of opportunity];
 - 💻 computer science student;
 - 🚀 Looking to learn more;
-- 📩Contate-me no email:kaue178hotimail@gmail.com
+- 📩Contact me on email:kaue178hotimail@gmail.com
 
 ##
 
