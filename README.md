@@ -4,15 +4,15 @@ Sou um desenvolvedor PHP buscando me aperfeiçoar constantimente e apaixonado po
 
 ## :computer: Habilidades:
 
-  PHP (OOP, MVC,DDD)
-  Java
-  Docker
-  MySQL
-  JavaScript (jQuery)
-  HTML/CSS (Bootstrap)
-  Git
-  Figma
-  Linux
+ ·PHP (OOP, MVC,DDD) <br>
+ ·Java <br>
+ ·Docker <br>
+ ·MySQL <br>
+ ·JavaScript (jQuery) <br>
+ ·HTML/CSS/SASS (Bootstrap) <br>
+ ·Git <br>
+ ·Figma <br>
+ ·Linux 
 
 ## :handshake: Contribuição
 
