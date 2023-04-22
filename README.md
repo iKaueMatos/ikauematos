@@ -3,13 +3,16 @@
 Sou um desenvolvedor PHP buscando me aperfeiçoar constantimente e apaixonado por criar soluções criativas e eficientes para problemas complexos. Com um forte conhecimento em desenvolvimento web, estou constantemente aprendendo novas tecnologias e adquirindo novas habilidades para aprimorar meus projetos e aperfeiçoar minha carreira.
 
 ## :computer: Habilidades:
-  PHP (OOP, MVC)
+
+  PHP (OOP, MVC,DDD)
+  Java
   Docker
   MySQL
   JavaScript (jQuery)
   HTML/CSS (Bootstrap)
   Git
   Figma
+  Linux
 
 ## :handshake: Contribuição
 
