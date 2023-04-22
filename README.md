@@ -1,34 +1,22 @@
-### Hi there 👋
+Olá, eu sou o (Kauê de Matos)! :wave:
 
-#### I'm a Developer/Web/Mobile working in São paulo, Brazil.
+Sou um desenvolvedor PHP buscando me aperfeiçoar constantimente e apaixonado por criar soluções criativas e eficientes para problemas complexos. Com um forte conhecimento em desenvolvimento web, estou constantemente aprendendo novas tecnologias e adquirindo novas habilidades para aprimorar meus projetos e aperfeiçoar minha carreira.
 
-##### What am i doing at the moment?
+:computer: Habilidades:
+PHP (OOP, MVC)
+Docker
+MySQL
+JavaScript (jQuery)
+HTML/CSS (Bootstrap)
+Git
+Figma
 
-- 🏢 Current working on [Live ecommerce];
-- 💻 computer science student;
-- 🚀 Looking to learn more;
-- 📩Contact me on email:kaue178hotimail@gmail.com
+:handshake: Contribuição
+Estou sempre procurando oportunidades para colaborar em projetos emocionantes e desafiadores relacionados a PHP. Se você está procurando ajuda em um projeto ou gostaria de trabalhar em conjunto, sinta-se à vontade para entrar em contato comigo.
 
-##
-
-<div align="left" valign="top"><br>
- 
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sass"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
- <img align="center" alt="MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img align="center" alt="jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
- <img align="center" alt="figma" height="40" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-
-  </div>
-  <br>
-  <br>
- <div>
+:mailbox: Contato
+E-mail: (Kaue178hotimail@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/kau%C3%AA-matos-oliveira-a76410213/]
  
    <a href = "mailto:kaue178hotimail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
