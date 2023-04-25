@@ -9,7 +9,6 @@ Sou um desenvolvedor PHP buscando me aperfeiçoar constantimente e apaixonado po
  ·Docker <br>
  ·MySQL <br>
  ·JavaScript (jQuery) <br>
- ·HTML/CSS/SASS (Bootstrap) <br>
  ·Git <br>
  ·Figma <br>
  ·Linux 
