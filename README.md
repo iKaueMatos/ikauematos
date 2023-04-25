@@ -12,6 +12,8 @@ Sou um desenvolvedor PHP buscando me aperfeiçoar constantimente e apaixonado po
  ·Git <br>
  ·Figma <br>
  ·Linux 
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKaueMatos&hide=TeX&layout=compact)
 
 ## :handshake: Contribuição
 
