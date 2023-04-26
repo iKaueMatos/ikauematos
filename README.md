@@ -2,23 +2,18 @@
 
 Sou um desenvolvedor PHP buscando me aperfeiçoar constantimente e apaixonado por criar soluções criativas e eficientes para problemas complexos. Com um forte conhecimento em desenvolvimento web, estou constantemente aprendendo novas tecnologias e adquirindo novas habilidades para aprimorar meus projetos e aperfeiçoar minha carreira.
 
-## :computer: Habilidades:
-
- ·PHP (OOP, MVC,DDD) <br>
- ·Java <br>
- ·Docker <br>
- ·MySQL <br>
- ·JavaScript (jQuery) <br>
- ·Git <br>
- ·Figma <br>
- ·Linux 
+<div class="center">
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKaueMatos&hide=TeX&layout=compact)
-
-## :handshake: Contribuição
-
- Estou sempre procurando oportunidades para colaborar em projetos emocionantes e desafiadores relacionados a PHP. Se você está procurando ajuda em um  projeto ou gostaria de trabalhar em conjunto, sinta-se à vontade para entrar em contato comigo.
-
 ## :mailbox: Contato
  E-mail: (Kaue178hotimail@gmail.com)
  
