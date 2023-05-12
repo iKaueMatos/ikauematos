@@ -1,26 +1,6 @@
 ## Olá, eu sou o (Kauê de Matos)! :wave:
 
 Sou um desenvolvedor Java buscando me aperfeiçoar constantimente e apaixonado por criar soluções criativas e eficientes para problemas complexos. Com um forte conhecimento em desenvolvimento web, estou constantemente aprendendo novas tecnologias e adquirindo novas habilidades para aprimorar meus projetos e aperfeiçoar minha carreira.
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=iKaueMatos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=iKaueMatos" height="150" alt="languages graph" />
-</div>
-
-
-<div class="center">
-<img  widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img widht="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" />
-<img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
-  <img widht="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" />
- <img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-<img widht="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
  
 ## :mailbox: Contato
  E-mail: (Kaue178hotimail@gmail.com)
