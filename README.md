@@ -7,14 +7,19 @@ Sou um desenvolvedor Java buscando me aperfeiçoar constantimente e apaixonado p
  
  LinkedIn: [https://www.linkedin.com/in/kau%C3%AA-matos-oliveira-a76410213/]
  
+ 
+ 
+ 
+ <div>
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</div>
+
+<br>
+
    <a href = "mailto:kaue178hotimail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauê-matos-oliveira-a76410213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://ikauematos.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
-
-<div class="center">
-  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
 
 
 
