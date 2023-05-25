@@ -14,6 +14,15 @@ Sou um desenvolvedor back-end buscando me aperfeiçoar constantimente e apaixona
  
  LinkedIn: [https://www.linkedin.com/in/kau%C3%AA-matos-oliveira-a76410213/]
  
+   <div>
+    <img height='50em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg'>
+    <img height='50em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+  </div>
  
 <br>
 
