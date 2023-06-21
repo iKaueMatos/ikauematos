@@ -7,9 +7,7 @@
        src="https://github-readme-stats.vercel.app/api?username=IkaueMatos&show_icons=true&&theme=codeSTACKr&&hide_border=true" />
   <img height="150em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkaueMatos&layout=compact&&theme=codeSTACKr&&hide_border=true" />
- 
- 
-
+   <br>
    <div>
     <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
