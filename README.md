@@ -1,5 +1,7 @@
 ## Olá, eu sou o (Kauê de Matos)! :wave:
 
+# Bem vindo ao meu Perfil! 
+
  <section align="center">
   <img height="150em"
        src="https://github-readme-stats.vercel.app/api?username=IkaueMatos&show_icons=true&&theme=codeSTACKr&&hide_border=true" />
