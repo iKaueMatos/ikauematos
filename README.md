@@ -8,14 +8,12 @@
   <img height="150em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkaueMatos&layout=compact&&theme=codeSTACKr&&hide_border=true" />
    <br>
-   <div>
-    <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
-    <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+   <br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,nodejs,figma,mysql,docker,vscode,git,php" />
+  </a>
+</p>
 
 
   </div>
