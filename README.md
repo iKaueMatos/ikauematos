@@ -2,4 +2,4 @@
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,redis,docker,linux,react,php,typescript,javascript,nodejs, postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,redis,docker,linux,react,php,typescript,javascript,nodejs,postman)](https://skillicons.dev)
