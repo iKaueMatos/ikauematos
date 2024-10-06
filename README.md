@@ -1,3 +1,3 @@
 Hey, I'm Kauê de Matos! 👋
 <br>
-ikauedeveloper@gmail.com
+www.ikauedev.com.br
