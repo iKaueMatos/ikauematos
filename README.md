@@ -24,7 +24,7 @@ Currently, I am exclusively focused on **back-end** development, working with a 
 - **Cloud Services (AWS)**:
   - **S3, ECS, EC2, Lambda, SQS, SNS, CloudWatch**, among others
 - **Front-end (Intermediate level)**:
-  - **React.js**, **HTML**, **CSS**, **JavaScript**
+  - **React.js**, **HTML**, **CSS**, **JavaScript** and **Angular**
 
 ### 🌐 **Additional Experience**
 - **Reading and comprehension in English** to stay updated on trends and technical documentation.
