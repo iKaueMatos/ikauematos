@@ -12,7 +12,7 @@ Currently, I am exclusively focused on **back-end** development, working with a 
   - **Java / JavaScript**
   - **Spring Boot** (Cloud, Security, Data)
 - **Databases**:
-  - Relational: **MySQL**
+  - Relational: **MySQL** and PostgreSQL
   - NoSQL: **Redis**
 - **Testing**:
   - **Unit and integration tests** with Java and JavaScript
