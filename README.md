@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I’m **Kauê de Matos**, a **Java** software developer with 3 years of experience in web development. Throughout my career as a freelancer, I’ve worked in various fields, always focusing on delivering efficient and scalable solutions.
+Hello, I’m **Kauê de Matos**, a **Java** software developer with 4 years of experience in web development. Throughout my career as a freelancer, I’ve worked in various fields, always focusing on delivering efficient and scalable solutions.
 
 ### 🌟 **Who Am I?**
 I’m a technology enthusiast, always seeking new challenges that allow me to grow and make significant contributions to my team’s success. I have a studious and dedicated profile, with a focus on solving problems quickly and effectively, prioritizing best practices and technical excellence.
