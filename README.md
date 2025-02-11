@@ -1,27 +1,6 @@
-## About Me
+## Sobre Mim
 
-Hello, I’m **Kauê de Matos**, a **Java** software developer with 4 years of experience in web development. Throughout my career as a freelancer, I’ve worked in various fields, always focusing on delivering efficient and scalable solutions.
+Olá, sou **Kauê de Matos**, desenvolvedor de software **Java** com 4 anos de experiência em desenvolvimento web. Ao longo da minha carreira como freelancer, atuei em diversas áreas, sempre com foco em entregar soluções eficientes e escaláveis.
 
-### 🌟 **Who Am I?**
-I’m a technology enthusiast, always seeking new challenges that allow me to grow and make significant contributions to my team’s success. I have a studious and dedicated profile, with a focus on solving problems quickly and effectively, prioritizing best practices and technical excellence.
-
-### 🚀 **My Expertise**
-Currently, I am exclusively focused on **back-end** development, working with a robust set of technologies to build scalable and high-performance systems. My skills include:
-
-- **Languages and Frameworks**:
-  - **Java / JavaScript**
-  - **Spring Boot** (Cloud, Security, Data)
-- **Databases**:
-  - Relational: **MySQL** and PostgreSQL
-  - NoSQL: **Redis**
-- **Testing**:
-  - **Unit and integration tests** with Java and JavaScript
-- **Software Architecture and Design**:
-  - **Microservices**, **Domain-Driven Design (DDD)**, **Clean Code**
-  - Design patterns like **SOLID** and **DRY**
-- **Containerization and Orchestration**:
-  - **Docker** and **Kubernetes**
-- **Cloud Services (AWS)**:
-  - **S3, ECS, EC2, Lambda, SQS, SNS, CloudWatch**, among others
-- **Front-end (Intermediate level)**:
-  - **React.js**, **HTML**, **CSS**, **JavaScript** and **Angular**
+### Stack
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,rabbitmq,aws,redis,postgresql,mysql,docker,mongodb,typescript)](https://skillicons.dev)
